@@ -1,10 +1,10 @@
 # (dio)Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 ## Passo 1 - Configurando
 - Clicar em criar um novo recurso
-    <img src="projeto-reconhecimento-facial-e-transformação-de-imagens-em-dados-no-azure-ml/1.png">
+    <img src="1.png">
 - Clicar em IA + Machine Learning
 - Escolher Serviços Cognitivos e clicar em criar
-    <img src="projeto-reconhecimento-facial-e-transformação-de-imagens-em-dados-no-azure-ml/4.png">
+    <img src="4.png">
 - Preencher as informações e depois apertar em review + create e depois em create, esperar a conclusão do deploy
 ## Passo 2 - Testando (detecção de rostos em uma imagem)
 - Acesse o [portal](https://portal.vision.cognitive.azure.com/gallery/featured/)
