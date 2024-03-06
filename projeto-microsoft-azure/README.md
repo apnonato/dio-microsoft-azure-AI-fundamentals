@@ -2,14 +2,14 @@
 ## PASSO 1 - Criando conta
 - Entrar no site da [Azure](https://azure.microsoft.com/pt-br/free/) 
 - Criar sua conta, mesmo criando a conta gratuita, vai pedir um cartão de crédito, vai creditar um valor simbolico para testar o cartão
-  <img src="projeto-microsoft-azure/1.png">
+  <img src="1.png">
 ## PASSO 2 - Selecionando a ferramenta
 - Selecionar "Criar um recurso"
-   <img src="projeto-microsoft-azure/2.png">
+   <img src="2.png">
 - Pesquisar Machine Learning
 - Selecionar Azure Machine Learning
   
-    <img src="projeto-microsoft-azure/3.png">
+    <img src="3.png">
 ## PASSO 3 - Configurando o Azure Machine Learning
 - Com o Azure Machine Learning selecionado, vai ter que criar um novo workspace e criar um novo resource group, criar um nome, a região, e clicar em Examinar e criar
 - Esperar que a validação seja aprovada, para clicar em criar.
