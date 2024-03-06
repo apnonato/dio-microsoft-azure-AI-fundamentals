@@ -1,7 +1,7 @@
 # (dio)Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 ## Passo 1 - Configurando
 - Clicar em criar um novo recurso
- <img src="projeto-microsoft-azure/2.png">
+ <img src="dio-microsoft-azure-AI-fundamentals/projeto-microsoft-azure/2.png">
 - Clicar em IA + Machine Learning
 - Escolher Serviços Cognitivos e clicar em criar
   <img src="projeto-microsoft-azure/4.png">
